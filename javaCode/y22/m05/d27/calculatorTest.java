@@ -1,9 +1,9 @@
 package y22.m05.d27;
 
 import org.junit.After;
+import org.junit.Assert;
 import org.junit.Before;
-import org.testng.Assert;
-import org.testng.annotations.Test;
+import org.junit.Test;
 
 public class calculatorTest {
     public int a = 10;

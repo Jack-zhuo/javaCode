@@ -5,6 +5,7 @@ public class Demo01_String {
         String a = "zhuoyue";
         String b = "zhuoyue";
         String c = new String("zhuoyue");
+        System.out.println(a.equals(c));
         System.out.println(a == c);
     }
 }
